@@ -1,3 +1,5 @@
+This Project implements the Intel 8085 microprocessor architecture in verilog supporting the execution of the following instructions:
+
 # Instructions Supported
 - Data Transfer Group
 
